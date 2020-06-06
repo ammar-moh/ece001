@@ -1,0 +1,6 @@
+table{width: 1500px; border: 3px solid #ffffff; border-collapse: collapse; position: absolute; top: 380px; left: 350px;}
+th { text-align: left; border: 3px solid #ffffff; border-collapse: collapse; padding: 40px; font-size:60; font-family: arial; color: #ffffff;}
+td {text-align: center; border: 3px solid #ffffff; border-collapse: collapse; padding: 10px; font-size:30; font-family: arial; color: #ffffff;}
+#back:hover { width: 230px;}
+#logo:hover {width: 291px;}
+th:hover {color: #70DEE5;}
